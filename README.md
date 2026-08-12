@@ -257,4 +257,3 @@ rm -rf ~/.vscode-server
 - 不建议把 `vscode-server_*.tar.gz` 提交到仓库，文件通常很大，应该从 Releases 下载。
 - `sudo setsebool -P use_nfs_home_dirs 1` 是持久 SELinux 策略变更，只应由服务器管理员确认后执行。
 - 如果服务器不是 CentOS 7 / RHEL 7，通常不需要手动安装兼容版 VS Code Server。
-
