@@ -1,0 +1,9 @@
+*.tar.gz
+*.tgz
+*.zip
+*.log
+.vscode/
+.vscode-server/
+.DS_Store
+Thumbs.db
+
